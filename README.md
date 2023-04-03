@@ -5,7 +5,7 @@
 2. [Cognitive Neuroimaging and Data Science MSc](https://www.birmingham.ac.uk/postgraduate/courses/taught/psych/cognitive-neuroimaging-data-sci.aspx?OpenSection=HowToApply)
 
 ## Australia 
-1. [The University of Sydney’s Master of Data Science | Online](https://postgradonline.sydney.edu.au/requestinfo/mds/)
+1. [The University of Sydney’s Master of Data Science Online](https://postgradonline.sydney.edu.au/requestinfo/mds/)
 
 
 ## USA 
