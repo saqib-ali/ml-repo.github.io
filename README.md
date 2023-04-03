@@ -1,5 +1,10 @@
 # Graduate and Post-graduate programs in Machine Learning, Artificial Intelligence and Data Sciences
 
+## Poland
+1. [M.Sc. in Machine Learning at University of Warsaw](http://informatorects.uw.edu.pl/en/programmes-all/ML-PRK/S2-PRK-ML/)
+2. [M.Sc. Data Science at Warsaw University of Technology](https://www.students.pw.edu.pl/Studies-Offer/M.Sc.-offer/Data-Science)
+3. [M.Sc. in Data Science at University of Wrocław](https://international.uni.wroc.pl/en/admission-full-degree-studies/programmes-english/data-science-554)
+
 ## UK
 1. [MSc Health Data Science and Statistics](https://www.plymouth.ac.uk/courses/postgraduate/msc-health-data-science-and-statistics)
 2. [Cognitive Neuroimaging and Data Science MSc](https://www.birmingham.ac.uk/postgraduate/courses/taught/psych/cognitive-neuroimaging-data-sci.aspx?OpenSection=HowToApply)
