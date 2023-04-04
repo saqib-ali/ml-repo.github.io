@@ -6,6 +6,8 @@
 3. [M.Sc. in Data Science at University of Wrocław](https://international.uni.wroc.pl/en/admission-full-degree-studies/programmes-english/data-science-554)
 4. [M.Sc. in Data Science at Warsaw University of Technology](https://ww4.mini.pw.edu.pl/graduate-studies/data-science-m-sc/)
 5. [M.Sc. in Machine Learning at Faculty of Mathematics, Informatics and Mechanics UW](https://www.mimuw.edu.pl/en/machine-learning-new-field-masters-programs)
+6. [M.Sc. in Artificual Intelligence at Warsaw University of Technology](https://www.students.pw.edu.pl/Studies-Offer/M.Sc.-offer/Artificial-Intelligence)
+
 
 ## UK
 1. [MSc Health Data Science and Statistics](https://www.plymouth.ac.uk/courses/postgraduate/msc-health-data-science-and-statistics)
