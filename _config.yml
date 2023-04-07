@@ -3,5 +3,3 @@ title: Graduate and Post-graduate programs in Machine Learning, Artificial Intel
 
 titles_from_headings:
   enabled:     true
-  strip_title: true
-  collections: true
