@@ -9,7 +9,7 @@
 6. [M.Sc. in Artificial Intelligence at Warsaw University of Technology](https://www.students.pw.edu.pl/Studies-Offer/M.Sc.-offer/Artificial-Intelligence)
 
 ## Malaysia
-1. [Master of Artificial Intelligence at Monash Univeristy](https://www.monash.edu.my/study/postgraduate-and-research/information-technology/master-of-artificial-intelligence)
+1. [Master of Artificial Intelligence at Monash University](https://www.monash.edu.my/study/postgraduate-and-research/information-technology/master-of-artificial-intelligence)
 
 ## Australia 
 1. [The University of Sydney’s Master of Data Science Online](https://postgradonline.sydney.edu.au/requestinfo/mds/)
